@@ -58,9 +58,3 @@ runway.log_model(
     input_samples={"predict": xs.sample(1)},
 )
 
-
-# In[ ]:
-
-
-jupyter nbconvert --to python YourNotebook.ipynb
-
